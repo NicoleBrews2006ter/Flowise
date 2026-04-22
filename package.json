@@ -42,5 +42,6 @@
     "flowise",
     "ai",
     "chatbot"
-  ]
+  ],
+  "_note": "Personal fork for learning LangchainJS integrations. Upstream: https://github.com/FlowiseAI/Flowise"
 }
